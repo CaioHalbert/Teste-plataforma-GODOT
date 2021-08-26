@@ -1,0 +1,10 @@
+[
+	{
+		"prompts": ["a name", "a noun", "an adverb", "an adjective"],
+		"story": "%s was on a %s and then %s checked if it was %s."
+	},
+	{
+		"prompts": ["a noun", "a name", "an adjective", "another name"],
+		"story": "There once was a %s called %s who searched for the mythical %s %s"
+	}
+]
